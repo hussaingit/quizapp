@@ -1,0 +1,14 @@
+fieldset{
+    border-radius: 4em;
+    text-align: justify;
+    background-color: grey;
+
+    
+}
+body{
+    background-color: violet;
+}
+.btn{
+    background-color: khaki;
+    margin-left: 400px;
+}
